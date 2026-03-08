@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFKBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Ar24Gamer.aternos.me",
-    "port": 12253,
+    "ip": "GSMC.aternos.me",
+    "port": 47203,
     "version": "1.21.1"
   },
   "position": {
